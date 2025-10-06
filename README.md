@@ -6,4 +6,4 @@ This project demonstrates a simple 3D reconstruction technique using **ray casti
 
 The algorithm reconstructs the 3D volume by progressively filling the grid with information inferred from blocked rays. The result is saved as a `.npy` file for further visualization and analysis.
 
-![3D Reconstruction Visualization](reconstruction_example.png)
+![Ray origins and directions around a cylinder](img/output.png)
